@@ -1,0 +1,2 @@
+# kitty-config
+Kitty config
